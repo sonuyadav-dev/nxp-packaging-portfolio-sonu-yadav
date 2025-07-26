@@ -50,7 +50,7 @@ Developed a temperature logger using Arduino + DHT11 sensor enclosed in a **3D-p
 ## 📄 Resume
 
 You can view my detailed resume here:  
-📌 [Resume_SonuYadav.pdf](./Resume_SonuYadav.pdf)
+📌 [Resume_SonuYadav.pdf](./Resume.pdf)
 
 ---
 
