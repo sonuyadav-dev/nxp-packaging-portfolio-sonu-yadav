@@ -61,12 +61,11 @@ I am currently seeking a role where I can contribute to **next-gen semiconductor
 Let's connect and innovate together!
 
 > 🔗 LinkedIn: [linkedin.com/in/sonuyadav-nxp](#)  
-> 📧 Email: sonuyadav@example.com
+> 📧 Email: sonuyadav2457856@gmail.com
 
 ---
 
 🛠️ *Built with:*  
 KiCAD, FreeCAD, Fusion360, SimScale, Arduino IDE, Markdown
 
-📁 License: MIT  
-
+📁 
