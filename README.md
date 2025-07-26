@@ -15,7 +15,7 @@ Designed a custom PCB layout using KiCAD for a basic microcontroller system, the
 - 🌡️ Simulated copper vs aluminum substrate under 1W power load  
 - 📈 Analyzed thermal gradient and hot spots  
 
-📂 [View Project Files](./1_PCB_Package_Design)
+📂 [View Project Files](./1_PCB_Package_Design/images)
 
 ---
 
