@@ -1,4 +1,4 @@
-# nxp-packaging-portfolio-sonu-yadav
+sonu-yadav
 Portfolio – Sonu Yadav
 
 👋 Hello! I'm **Sonu Yadav**, a passionate engineer focused on **semiconductor packaging**, **materials reliability**, and **mechanical-thermal simulation**. This portfolio showcases my most relevant hands-on and virtual projects aligned with the **Packaging Innovation (PI) team at NXP**.
